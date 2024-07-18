@@ -22,7 +22,7 @@ pkg install python git
 
 git clone https://github.com/B32u-ann/NukerAnnonymos
 
-cd Discord-Nuke-Bot
+cd NukerAnnonymos
 
 python -m pip install -r requirements.txt
 
