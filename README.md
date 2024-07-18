@@ -30,7 +30,7 @@ python nuke-bot.py
 ```
 **[Subsequent launches]**
 ```console
-cd Discord-Nuke-Bot
+cd NukerAnnonymos
 
 python nuke-bot.py
 ```
@@ -38,7 +38,7 @@ python nuke-bot.py
 ```console
 git clone https://github.com/B32u-ann/NukerAnnonymos
 
-cd Discord-Nuke-Bot
+cd NukerAnnonymos
 
 python -m pip install -r requirements.txt
 
